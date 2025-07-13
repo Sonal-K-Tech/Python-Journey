@@ -1,6 +1,6 @@
 a='Sonal' #Single Quoted String 
 b="IOT" #Double Quoted String 
-c='''13031424018''' #Triple Quoted String, used to store multiple lines
+c='''18''' #Triple Quoted String, used to store multiple lines
 
 #INDEX IN STRING 
 #  S  O  N  A  L => LENGTH = 5
